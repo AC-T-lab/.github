@@ -1,5 +1,5 @@
 # Welcome to AC&T Lab 👋
----
+
 ## About our lab
 Our lab uses computational or experimental tools to study thermal-fluid problems, specifically in regards to chemical kinetics of fuels, aerosol filtration, cooling and complex fluids. 
 
